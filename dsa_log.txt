@@ -346,3 +346,4 @@
 3. Longest Substring Without Repeating Characters - Accepted
 122. Best Time to Buy and Sell Stock II - Accepted
 160. Intersection of Two Linked Lists - Accepted
+297. Serialize and Deserialize Binary Tree - Accepted
