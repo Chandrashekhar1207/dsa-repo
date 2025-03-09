@@ -338,3 +338,5 @@
 994. Rotting Oranges - Accepted
 189. Rotate Array - Accepted
 300. Longest Increasing Subsequence - Accepted
+
+20. Valid Parentheses - Accepted
