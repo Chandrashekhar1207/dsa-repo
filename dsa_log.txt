@@ -337,3 +337,4 @@
 37. Sudoku Solver - Accepted
 994. Rotting Oranges - Accepted
 189. Rotate Array - Accepted
+300. Longest Increasing Subsequence - Accepted
