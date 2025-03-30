@@ -322,3 +322,4 @@
 104. Maximum Depth of Binary Tree - Accepted
 102. Binary Tree Level Order Traversal - Accepted
 64. Minimum Path Sum - Accepted
+70. Climbing Stairs - Accepted
