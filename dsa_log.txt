@@ -314,3 +314,4 @@
 35. Search Insert Position - Accepted
 47. Permutations II - Accepted
 134. Gas Station - Accepted
+300. Longest Increasing Subsequence - Accepted
