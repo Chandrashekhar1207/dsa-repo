@@ -312,3 +312,4 @@
 165. Compare Version Numbers - Accepted
 704. Binary Search - Accepted
 35. Search Insert Position - Accepted
+47. Permutations II - Accepted
