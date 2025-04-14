@@ -308,3 +308,4 @@
 14. Longest Common Prefix - Accepted
 88. Merge Sorted Array - Accepted
 297. Serialize and Deserialize Binary Tree - Accepted
+1. Two Sum - Accepted
