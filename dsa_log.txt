@@ -307,3 +307,4 @@
 242. Valid Anagram - Accepted
 14. Longest Common Prefix - Accepted
 88. Merge Sorted Array - Accepted
+297. Serialize and Deserialize Binary Tree - Accepted
