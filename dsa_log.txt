@@ -303,3 +303,4 @@
 104. Maximum Depth of Binary Tree - Accepted
 205. Isomorphic Strings - Accepted
 300. Longest Increasing Subsequence - Accepted
+1631. Path With Minimum Effort - Accepted
