@@ -295,3 +295,4 @@
 103. Binary Tree Zigzag Level Order Traversal - Accepted
 76. Minimum Window Substring - Accepted
 101. Symmetric Tree - Accepted
+1319. Number of Operations to Make Network Connected - Accepted
