@@ -271,3 +271,4 @@
 125. Valid Palindrome - Accepted
 459. Repeated Substring Pattern - Accepted
 51. N-Queens - Accepted
+35. Search Insert Position - Accepted
