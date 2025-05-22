@@ -270,3 +270,4 @@
 234. Palindrome Linked List - Accepted
 125. Valid Palindrome - Accepted
 459. Repeated Substring Pattern - Accepted
+51. N-Queens - Accepted
