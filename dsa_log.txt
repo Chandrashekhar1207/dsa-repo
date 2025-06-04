@@ -256,3 +256,4 @@
 75. Sort Colors - Accepted
 21. Merge Two Sorted Lists - Accepted
 583. Delete Operation for Two Strings - Accepted
+136. Single Number - Accepted
