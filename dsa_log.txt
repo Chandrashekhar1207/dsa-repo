@@ -254,3 +254,4 @@
 1091. Shortest Path in Binary Matrix - Accepted
 125. Valid Palindrome - Accepted
 75. Sort Colors - Accepted
+21. Merge Two Sorted Lists - Accepted
