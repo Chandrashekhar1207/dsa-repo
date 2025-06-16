@@ -242,3 +242,4 @@
 162. Find Peak Element - Accepted
 122. Best Time to Buy and Sell Stock II - Accepted
 714. Best Time to Buy and Sell Stock with Fee - Accepted
+41. First Missing Positive - Accepted
