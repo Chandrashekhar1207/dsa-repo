@@ -233,3 +233,4 @@
 647. Palindromic Substrings - Accepted
 144. Binary Tree Preorder Traversal - Accepted
 93. Restore IP Addresses - Accepted
+542. 01 Matrix - Accepted
