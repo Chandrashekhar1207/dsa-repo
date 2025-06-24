@@ -231,3 +231,4 @@
 876. Middle of the Linked List - Accepted
 92. Reverse Linked List II - Accepted
 647. Palindromic Substrings - Accepted
+144. Binary Tree Preorder Traversal - Accepted
