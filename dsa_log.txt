@@ -222,3 +222,4 @@
 1312. Minimum Insertion Steps to Make Palindrome - Accepted
 160. Intersection of Two Linked Lists - Accepted
 424. Longest Repeating Character Replacement - Accepted
+242. Valid Anagram - Accepted
