@@ -220,3 +220,4 @@
 1976. Number of Ways to Arrive at Destination - Accepted
 1091. Shortest Path in Binary Matrix - Accepted
 1312. Minimum Insertion Steps to Make Palindrome - Accepted
+160. Intersection of Two Linked Lists - Accepted
