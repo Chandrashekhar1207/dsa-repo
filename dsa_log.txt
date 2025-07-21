@@ -200,3 +200,4 @@
 110. Balanced Binary Tree - Accepted
 34. Find First and Last Position - Accepted
 136. Single Number - Accepted
+62. Unique Paths - Accepted
