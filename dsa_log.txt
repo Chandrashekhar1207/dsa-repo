@@ -196,3 +196,4 @@
 200. Number of Islands - Accepted
 542. 01 Matrix - Accepted
 516. Longest Palindromic Subsequence - Accepted
+66. Plus One - Accepted
