@@ -194,3 +194,4 @@
 42. Trapping Rain Water - Accepted
 1466. Reorder Routes to Make All Paths Lead to the City Zero - Accepted
 200. Number of Islands - Accepted
+542. 01 Matrix - Accepted
