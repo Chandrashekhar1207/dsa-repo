@@ -192,3 +192,4 @@
 117. Populating Next Right Pointers II - Accepted
 673. Number of Longest Increasing Subsequence - Accepted
 42. Trapping Rain Water - Accepted
+1466. Reorder Routes to Make All Paths Lead to the City Zero - Accepted
