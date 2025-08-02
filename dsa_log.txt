@@ -191,3 +191,4 @@
 3. Longest Substring Without Repeating Characters - Accepted
 117. Populating Next Right Pointers II - Accepted
 673. Number of Longest Increasing Subsequence - Accepted
+42. Trapping Rain Water - Accepted
