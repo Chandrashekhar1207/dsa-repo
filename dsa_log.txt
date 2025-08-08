@@ -185,3 +185,4 @@
 124. Binary Tree Maximum Path Sum - Accepted
 1482. Minimum Days to Make Bouquets - Accepted
 145. Binary Tree Postorder Traversal - Accepted
+1631. Path With Minimum Effort - Accepted
