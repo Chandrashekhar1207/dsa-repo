@@ -183,3 +183,4 @@
 19. Remove Nth Node From End of List - Accepted
 322. Coin Change - Accepted
 124. Binary Tree Maximum Path Sum - Accepted
+1482. Minimum Days to Make Bouquets - Accepted
