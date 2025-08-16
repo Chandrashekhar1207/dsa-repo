@@ -174,3 +174,4 @@
 704. Binary Search - Accepted
 40. Combination Sum II - Accepted
 1091. Shortest Path in Binary Matrix - Accepted
+860. Lemonade Change - Accepted
