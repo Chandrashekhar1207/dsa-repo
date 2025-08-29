@@ -165,3 +165,4 @@
 26. Remove Duplicates from Sorted Array - Accepted
 35. Search Insert Position - Accepted
 33. Search in Rotated Sorted Array - Accepted
+62. Unique Paths - Accepted
