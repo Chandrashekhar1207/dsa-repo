@@ -142,3 +142,4 @@
 2. Add Two Numbers - Accepted
 22. Generate Parentheses - Accepted
 68. Text Justification - Accepted
+860. Lemonade Change - Accepted
