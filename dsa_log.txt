@@ -140,3 +140,4 @@
 81. Search in Rotated Sorted Array II - Accepted
 73. Set Matrix Zeroes - Accepted
 2. Add Two Numbers - Accepted
+22. Generate Parentheses - Accepted
