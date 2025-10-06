@@ -125,3 +125,4 @@
 160. Intersection of Two Linked Lists - Accepted
 541. Reverse String II - Accepted
 49. Group Anagrams - Accepted
+58. Length of Last Word - Accepted
