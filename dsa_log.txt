@@ -117,3 +117,4 @@
 33. Search in Rotated Sorted Array - Accepted
 53. Maximum Subarray - Accepted
 621. Task Scheduler - Accepted
+547. Number of Provinces - Accepted
