@@ -98,3 +98,4 @@
 876. Middle of the Linked List - Accepted
 20. Valid Parentheses - Accepted
 64. Minimum Path Sum - Accepted
+714. Stock with Transaction Fee - Accepted
