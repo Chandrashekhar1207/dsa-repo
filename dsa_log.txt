@@ -96,3 +96,4 @@
 704. Binary Search - Accepted
 322. Coin Change - Accepted
 876. Middle of the Linked List - Accepted
+20. Valid Parentheses - Accepted
