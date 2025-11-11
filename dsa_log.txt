@@ -84,3 +84,4 @@
 1283. Find Smallest Divisor Given Threshold - Accepted
 142. Linked List Cycle II - Accepted
 37. Sudoku Solver - Accepted
+42. Trapping Rain Water - Accepted
