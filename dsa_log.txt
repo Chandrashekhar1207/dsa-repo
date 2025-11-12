@@ -81,3 +81,4 @@
 151. Reverse Words in a String - Accepted
 113. Path Sum II - Accepted
 25. Reverse Nodes in k-Group - Accepted
+1283. Find Smallest Divisor Given Threshold - Accepted
