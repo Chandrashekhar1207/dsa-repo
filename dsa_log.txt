@@ -72,3 +72,4 @@
 79. Word Search - Accepted
 52. N-Queens II - Accepted
 621. Task Scheduler - Accepted
+435. Non-overlapping Intervals - Accepted
