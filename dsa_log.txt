@@ -71,3 +71,4 @@
 81. Search in Rotated Sorted Array II - Accepted
 79. Word Search - Accepted
 52. N-Queens II - Accepted
+621. Task Scheduler - Accepted
