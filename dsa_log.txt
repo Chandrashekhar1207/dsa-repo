@@ -60,3 +60,4 @@
 26. Remove Duplicates from Sorted Array - Accepted
 73. Set Matrix Zeroes - Accepted
 134. Gas Station - Accepted
+22. Generate Parentheses - Accepted
