@@ -50,3 +50,4 @@
 494. Target Sum - Accepted
 684. Redundant Connection - Accepted
 102. Binary Tree Level Order Traversal - Accepted
+235. Lowest Common Ancestor of a BST - Accepted
