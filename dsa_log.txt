@@ -48,3 +48,4 @@
 238. Product of Array Except Self - Accepted
 23. Merge k Sorted Lists - Accepted
 494. Target Sum - Accepted
+684. Redundant Connection - Accepted
