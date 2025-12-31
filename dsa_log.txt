@@ -39,3 +39,4 @@
 621. Task Scheduler - Accepted
 40. Combination Sum II - Accepted
 802. Find Eventual Safe States - Accepted
+230. Kth Smallest Element in a BST - Accepted
