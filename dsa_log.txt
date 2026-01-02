@@ -36,3 +36,4 @@
 81. Search in Rotated Sorted Array II - Accepted
 290. Word Pattern - Accepted
 1976. Number of Ways to Arrive at Destination - Accepted
+621. Task Scheduler - Accepted
