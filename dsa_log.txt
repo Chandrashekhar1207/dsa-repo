@@ -34,3 +34,4 @@
 116. Populating Next Right Pointers - Accepted
 226. Invert Binary Tree - Accepted
 81. Search in Rotated Sorted Array II - Accepted
+290. Word Pattern - Accepted
