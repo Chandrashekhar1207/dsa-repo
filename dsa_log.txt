@@ -31,3 +31,4 @@
 1312. Minimum Insertion Steps to Make Palindrome - Accepted
 547. Number of Provinces - Accepted
 1466. Reorder Routes to Make All Paths Lead to the City Zero - Accepted
+116. Populating Next Right Pointers - Accepted
