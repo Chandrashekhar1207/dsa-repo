@@ -29,3 +29,4 @@
 802. Find Eventual Safe States - Accepted
 438. Find All Anagrams in a String - Accepted
 1312. Minimum Insertion Steps to Make Palindrome - Accepted
+547. Number of Provinces - Accepted
