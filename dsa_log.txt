@@ -26,3 +26,4 @@
 169. Majority Element - Accepted
 58. Length of Last Word - Accepted
 1283. Find Smallest Divisor Given Threshold - Accepted
+802. Find Eventual Safe States - Accepted
