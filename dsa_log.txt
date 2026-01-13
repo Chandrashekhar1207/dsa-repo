@@ -24,3 +24,4 @@
 875. Koko Eating Bananas - Accepted
 322. Coin Change - Accepted
 169. Majority Element - Accepted
+58. Length of Last Word - Accepted
