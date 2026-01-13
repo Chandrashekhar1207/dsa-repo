@@ -25,3 +25,4 @@
 322. Coin Change - Accepted
 169. Majority Element - Accepted
 58. Length of Last Word - Accepted
+1283. Find Smallest Divisor Given Threshold - Accepted
