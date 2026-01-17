@@ -20,3 +20,4 @@
 52. N-Queens II - Accepted
 560. Subarray Sum Equals K - Accepted
 540. Single Element in Sorted Array - Accepted
+206. Reverse Linked List - Accepted
