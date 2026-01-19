@@ -17,3 +17,4 @@
 647. Palindromic Substrings - Accepted
 126. Word Ladder II - TLE
 105. Construct Binary Tree from Preorder and Inorder - Accepted
+52. N-Queens II - Accepted
