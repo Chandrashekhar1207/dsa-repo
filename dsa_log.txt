@@ -12,3 +12,4 @@
 15. 3Sum - Accepted
 541. Reverse String II - Accepted
 167. Two Sum II - Accepted
+72. Edit Distance - Accepted
